@@ -1,0 +1,13 @@
+{
+  "name": "sentry-javascript-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/browser": "^4.0.0",
+    "serve": "^10.0.1"
+  },
+  "scripts": {
+    "start": "serve"
+  }
+}
